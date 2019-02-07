@@ -1,0 +1,14 @@
+{
+  "name": "striddle",
+  "version": "0.0.1",
+  "description": "A command-line tool for monitoring TODO comments & similar within  projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Dill",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
